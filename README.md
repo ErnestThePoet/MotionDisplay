@@ -3,9 +3,9 @@ Want to measure the G-load when your flight is taking off? Try this interesting 
 ## Motion Data
 The displayed motion data are(from top screen to bottom):
 - GPS speed
-- Horizontal acceleration
-- Side acceleration
-- Vertical acceleration(G-Load)
+- Longitudinal acceleration
+- Lateral acceleration
+- Vertical acceleration
 - Total acceleration
 ## Screenshot
 <image src="https://github.com/ErnestThePoet/MotionDisplay/blob/master/screenshot.jpg" height="700"/>
